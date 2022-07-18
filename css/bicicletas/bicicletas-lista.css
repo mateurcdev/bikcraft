@@ -17,6 +17,9 @@
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 }
+#bicicletas .bicicletas-lista ul {
+  padding: 0px 0px 20px 0px;
+}
 
 #bicicleta .bicicletas-lista ul {
   padding: 0px 0px 20px 0px;
@@ -33,6 +36,7 @@
 
 .bicicletas-lista img {
   margin-bottom: 16px;
+  border-radius: 4px;
 }
 
 .bicicletas-lista h3 {
